@@ -1,12 +1,9 @@
-Here's your updated **README.md** without the GIF, but with a relevant image at the top:
-
 ---
+![Cybersecurity](image.png)
 
 # 🛡️ Software Security and Vulnerabilities  
 
 _A comprehensive portfolio of practical cybersecurity challenges focused on ethical hacking, vulnerability analysis, and exploit development, completed during my academic journey._
-
-![Cybersecurity]([https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Information_security_icon.png/600px-Information_security_icon.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcharitydigital.org.uk%2Ftopics%2Fan-a-z-glossary-of-cyber-security-terms-and-definitions-11473&psig=AOvVaw2WhtJ_AhjH-Wm8lsWhfHvs&ust=1733077122502000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOipzsXVhIoDFQAAAAAdAAAAABAE))  
 
 ---
 
